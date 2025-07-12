@@ -50,9 +50,9 @@ A full-featured dashboard application with comprehensive API backend, showcasing
 
 ## 📊 GitHub Stats
 
-![Taco's GitHub stats](https://github-readme-stats.vercel.app/api?username=wrappeddev&show_icons=true&theme=dark&hide_border=true)
+![Taco's GitHub stats](https://github-readme-stats.vercel.app/api?username=WxTaco&show_icons=true&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wrappeddev&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WxTaco&layout=compact&theme=dark&hide_border=true)
 
 ## 🌱 Currently Learning
 
